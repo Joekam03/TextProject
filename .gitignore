@@ -1,0 +1,21 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+iframe_figures/
+*.tmp
+PC0vsPC1.png
+Plot images/riff1_pca_year.png
+Plot images/riff2_topics_over_time.png
+lexicons/sources/
+
+# Course example notebooks are intentionally excluded from the final repo.
+ds-5001-project-corpus-analysis.ipynb
+uva-ds-5001-m04-pipeline-2-99bfb4.ipynb
+uva-ds-5001-m05-*.ipynb
+uva-ds-5001-m05-*.xpynb
+uva-ds-5001-m06-*.xpynb
+uva-ds-5001-m07-pca-of-wine-reviews.ipynb
+uva-ds-5001-m08-*.ipynb
+uva-ds-5001-m09-*.ipynb
+uva-ds-5001-m10-*.ipynb
+uva-ds-5001-m10-*.xpynb
