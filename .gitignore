@@ -7,6 +7,10 @@ PC0vsPC1.png
 Plot images/riff1_pca_year.png
 Plot images/riff2_topics_over_time.png
 lexicons/sources/
+tables/CORPUS.csv
+tables/BOW_PARA.csv
+tables/BOW_UNIT.csv
+tables/TFIDF.csv
 
 # Course example notebooks are intentionally excluded from the final repo.
 ds-5001-project-corpus-analysis.ipynb
